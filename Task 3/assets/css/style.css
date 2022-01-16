@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+header .row h1{
+    text-align: center;
+    margin-top: 10px;
+}
+header .row p{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 500px;
+    width: 33%;
+}
+main #first-works{
+    margin-top: 30px;
+    margin-left: 170px;
+    display: flex;
+    
+}
+main #first-works .car{
+    background-color: white;
+    width: 25%;
+    height:230px;
+    text-align: center;
+    padding: 10px;
+}
+main #first-works .car .icon{
+    font-size: 40px;
+}
+main #first-works .car .shipping{
+    margin-top: 10px;
+    
+}
+main #first-works .car .lorem{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 76%;
+    text-align: center;
+}
+main #first-works .package{
+    background-color: white;
+    width: 25%;
+    height:230px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    
+}
+main #first-works .package .icon2{
+    font-size: 40px
+
+}
+main #first-works .package .assecs{
+    margin-top: 10px;
+
+}
+main #first-works .package .lorem2{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 73%;
+    text-align: center;
+
+}
+main #first-works .stop{
+    background-color: white;
+    width: 25%;
+    height:230px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+
+}
+main #first-works .stop .icon3{
+    font-size: 40px
+
+}
+main #first-works .stop .Stop-shop{
+    margin-top: 10px;
+
+}
+main #first-works .stop .lorem3{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 76%;
+    text-align: center;
+
+}
+main #second-works{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 170px;
+}
+main #second-works .product{
+    background-color: white;
+    width: 25%;
+    height:230px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 0px;
+
+}
+main #second-works .product .icon4{
+    font-size: 40px
+
+}
+main #second-works .product .range{
+    margin-top: 10px;
+}
+main #second-works .product .lorem4{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 76%;
+    text-align: center;
+
+}
+main #second-works .buy{
+    background-color: white;
+    width: 25%;
+    height:230px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+
+}
+main #second-works .buy .icon5{
+    font-size: 40px
+
+}
+main #second-works .buy .pricing{
+    margin-top: 10px;
+}
+main #second-works .buy .lorem5{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 76%;
+    text-align: center;
+
+}
+main #second-works .service{
+    background-color: white;
+    width: 25%;
+    height:230px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+
+}
+main #second-works .service .icon6{
+    font-size: 40px
+
+}
+main #second-works .service .personal{
+    margin-top: 10px;
+
+}
+main #second-works .service .lorem6{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 71%;
+    text-align: center;
+
+}
+footer .button1{
+    margin-left: 650px;
+    margin-top: 20px;
+    font-size: 28px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    
+}

@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/city.jpg);
+    position: relative;
+}
+.row .logo{
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.row .navbar{
+    color: white;
+    position: absolute;
+    right: 50px;
+    top: 0;
+}
+
+
+
+.row .navbar a {
+    margin-left: 25px;
+    color: white;
+    text-decoration: none;
+}
+main #business{
+   
+    margin-top: 200px;
+    margin-right: 700px;
+    color: white;
+}
+main #business h1{
+    font-size: 50px;
+    margin-left: 170px;
+    width: 60%;
+    
+}
+main #business p{
+    margin-left: 170px;
+    width: 48%;
+
+}
+main #business .bt1{
+    font-size: 20px;
+    margin-left: 170px;
+    margin-top: 30px;
+    border-radius: 7px;
+    width: 100px;
+    border-color: white;
+    
+}
+main #business .bt1:hover{
+    transition: 0.5s;
+    background-color: orange;
+    cursor: pointer;
+    color: white;
+}
+footer #color{
+    background-color: gray;
+    width: 100%;
+    height: 30px;
+    margin-top: 250px;
+}
+main #business .register{
+   position: absolute;
+   right: 400px;
+   top: 200px;
+   width: 300px;
+   font-size: 20px;
+   border-color: white;
+}
+.heighttext{
+    height: 30px;
+    width: 200px;
+}
+main #business .register{
+    
+   border: 3px solid green;
+   background-color: white;
+   height: 370px;
+   text-align: center;
+   
+}
+main #business .register .input2{
+    font-size: 15px;
+    color: black;
+    margin-top: 30px;
+}
+main #business .register .button2{
+    color: white;
+    background-color: orange;
+    font-size: 20px;
+    border-radius: 23px;
+    width: 230px;
+    height: 40px;
+    margin-top: 20px;
+}
+main #business .register .input{
+    width: 25%;
+    margin-left: 60px;
+    margin-top: 20px;
+   
+    
+}
+
+
+
+
